@@ -3,7 +3,7 @@ var async = require('async'),
   elasticsearch = require('elasticsearch'),
   debug = require('debug')('nosqlimport');
 
-debug('Using mongodb nosqlimport writer');
+debug('Using elasticsearch nosqlimport writer');
 
 var writer = function(opts) {
 

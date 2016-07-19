@@ -1,6 +1,6 @@
 {
   "name": "nosqlimport-elasticsearch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Elasticsearch CSV import module for nosqlimport",
   "main": "index.js",
   "scripts": {
