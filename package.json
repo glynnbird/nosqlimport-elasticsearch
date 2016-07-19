@@ -1,0 +1,31 @@
+{
+  "name": "nosqlimport-elasticsearch",
+  "version": "0.1.0",
+  "description": "Elasticsearch CSV import module for nosqlimport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glynnbird/nosqlimport-elasticsearch.git"
+  },
+  "keywords": [
+    "csv",
+    "import",
+    "nosql",
+    "elasticsearch",
+    "json"
+  ],
+  "author": "Glynn Bird <glynn.bird@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/glynnbird/nosqlimport-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/glynnbird/nosqlimport-elasticsearch#readme",
+  "dependencies": {
+    "async": "^2.0.0",
+    "debug": "^2.2.0",
+    "elasticsearch": "^11.0.1"
+  }
+}
